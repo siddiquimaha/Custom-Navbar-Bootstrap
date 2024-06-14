@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav .nav-item a.nav-link{
+    margin-right: 30px;
+    font-weight: bold;
+}
+.navbar-nav .nav-item a.nav-link:hover{
+    color: black;
+}
+.fa-twitter, .fa-facebook, .fa-instagram, .fa-linkedin-in {
+    color: white;
+    font-size: 1.5em;
+}
+
